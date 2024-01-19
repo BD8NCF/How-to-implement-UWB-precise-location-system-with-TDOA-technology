@@ -244,7 +244,7 @@ The lowest power consumption of the tag reaches 13.3uA, which is the current whe
 
 Here, the time between DW1000 waking up and launching is a bit long, which is waiting for DW1000 to enter a stable working state. It should be possible to shorten this wait and save some power.
 
-It is also worth mentioning that because the industrial card is very thin, in order to save space, the DWM1000 is welded from the back. If you solder from the front, the PCBA should be higher.
+It is also worth mentioning that because the name-card style tag is very thin, in order to save space, the DWM1000 is welded from the back. If you solder from the front, the PCBA should be higher.
 ![image](/howto-Implement-tdoa-uwb-rtls-1/tag-pcba-2.png)<br>
 ![image](/howto-Implement-tdoa-uwb-rtls-1/tag-pcba-3.png)<br>
 ![image](/howto-Implement-tdoa-uwb-rtls-1/tag-pcba-4.png)<br>
