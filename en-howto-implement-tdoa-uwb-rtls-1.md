@@ -4,7 +4,7 @@ This is a series of articles that will introduce you to how to implement a UWB p
 
 **IMPORTANT NOTE:**
 
->**Q: Is it necessary to build this location system?**
+> **Q: Do I need basic knowledge to create this location system?**
 >
 > A: This article is not for beginners. It requires a basic knowledge of electronic technology and software programming.
 > **Q: Are your hardware/software open source?**
